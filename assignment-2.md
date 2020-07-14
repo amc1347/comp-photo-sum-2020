@@ -1,9 +1,0 @@
-For the first set of photos, I chose the lens for the Ten of One option. I decided to use a macro lens because I wanted to really capture the abstract perspectives with the proximity. My subject was a pair of scissors. This subject has always been very interesting to me because of how shiny and reflective the texture is. I definitely wanted to switch up the type of lens/cameras I used for this assignment because I wanted to be able to experience the difference and how it impacts the type of photos it creates. The macro lens was more fun to work with because of the unusual perspective that it offers that the naked eye cannot. 
-
-The second set of photos is the Two Dozen photos. I chose a dark setting because I love lights and I wanted to be able to practice capturing them on camera. This was probably my first time using a DSLR but I definitely understand the difference in control that you have in comparison to an iphone camera. I used the settings of f3.5 and that is all I know about the manual setting for cameras (slowly learning more about them, but probably will take some time). According to the information for the photos, the exposure was at 1/60. I think I tried to capture the different angles of my location. I took some photos from a sitting position, some from standing, and some from the ground. 
-
-If this were all taken with film, I definitely would have been more careful and spent more time with each shot. The idea of deleting an image creates a security blanket for beginners (like me) but makes it harder to learn. When I am playing with my friend’s polaroid, I think I am more careful knowing that it is a one time shot. 
-
-TEN OF ONE: https://drive.google.com/drive/folders/1HjkR2rTAWsAJDw_aC4XxYEjKnhj0mvPa?usp=sharing 
-
-TWO DOZEN: https://drive.google.com/drive/folders/1NFLeI51XYoBCfRLvV751K8-kUNvWk4Gj?usp=sharing 
