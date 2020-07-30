@@ -5,7 +5,7 @@ For the shape and line group, I took three images that had lots of straight vert
 For the three color focused images, I chose one that was very light in color, one very dark in color, and one that is extremely colorful and saturated. I also used the same glitch effect for all three images but I layered on three opaque colored rectangles in order to change the glitch color. As mentioned before, the glitch pixel color is chosen by the first pixel on the left hand side so I had to place the rectangle to touch the Y-axis in order to see a changed effect. You can see that in the rectangle, it changes that color of the glitch. When choosing the colors of the rectangles, I made it to contrast the most prominent color in the image or I made it so compliment the color. For example, in the Winter image, I chose purple because the main color was a gold yellow kind of color. For some of the versions that I created, it looked too similarly to the Warriors so I had to change it up to show more colors. 
 
 
-final PDF: https://drive.google.com/file/d/15oiXCtzPutec9kR0Y_t3sIP0_9Eqn2qh/view?usp=sharing 
+final photos PDF: https://drive.google.com/file/d/15oiXCtzPutec9kR0Y_t3sIP0_9Eqn2qh/view?usp=sharing 
 
 Github link: https://github.com/amc1347/comp-photo-midterm/tree/master/p5/empty-example
 
